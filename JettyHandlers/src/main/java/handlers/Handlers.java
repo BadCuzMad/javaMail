@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.Arrays;
 
-//http://localhost:8080/?get=
+
 public final class Handlers extends AbstractHandler {
 
 
